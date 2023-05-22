@@ -10,7 +10,7 @@ function encode(plainStr, dictOfSubs) {
         }
     }
     return answer;
-    // You do not have to iterate over object to solve this
+
   }
   
   var dictOfSubs1 = {
