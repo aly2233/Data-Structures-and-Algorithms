@@ -1,3 +1,4 @@
+//structy pairProduct
 const pairProduct = (numbers, targetProduct) => {
     const prev = {};
     
