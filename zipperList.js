@@ -1,3 +1,5 @@
+//structy zipperList
+
 const zipperLists = (head1, head2) => {
     const head = head1;
     let tail = head;

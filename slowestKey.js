@@ -1,3 +1,5 @@
+//hackerrank
+
 let slowestKey = function(keyTimes) {
   let pressTimes = [];
 pressTimes.push(keyTimes[0][1])

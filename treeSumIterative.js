@@ -1,3 +1,5 @@
+//structy treeSum iterative
+
 const treeSum = (root) => {
     if (root === null) return 0;
   
