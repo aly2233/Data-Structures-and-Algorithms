@@ -1,3 +1,5 @@
+//structy mostFrequentChar
+
 const mostFrequentChar = (s) => {
     const count = {};
     
